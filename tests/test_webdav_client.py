@@ -8,7 +8,7 @@ if __name__ == "__main__":
     print(list_dir("/"))          # --- Search/List
 
     local_demo = str(Path("C:\\Users\\Theo Akbas\\Documents\\ownCloud_webDAV\\tests\\demo_text.txt"))
-    remote_demo = "/ai-exchange/demo_2.pdf"
+    remote_demo = "/ai-exchange/demo_2.txt"
 
     print("⤴️  Uploading", local_demo)
     upload(local_demo, remote_demo)  # --- Create/Update
