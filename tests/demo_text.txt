@@ -1,0 +1,1 @@
+This is a demonstration file meant to be uploaded to webDAV and downloaded back from it.
