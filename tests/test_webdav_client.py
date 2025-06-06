@@ -7,7 +7,7 @@ if __name__ == "__main__":
     print("🗂  Root listing:")
     print(list_dir("/"))          # --- Search/List
 
-    local_demo = str(Path("C:\\Users\\Theo Akbas\\Documents\\ownCloud_webDAV\\tests\\demo_text.txt"))
+    local_demo = str(Path("C:\\Users\\The Beast\\Documents\\my_projects\\ownCloud_webDAV\\tests\\demo_text.txt"))
     remote_demo = "/ai-exchange/demo_2.txt"
 
     print("⤴️  Uploading", local_demo)
