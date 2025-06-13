@@ -1,3 +1,5 @@
+# pip install gradio pandas python-dotenv langsmith langchain langchain-huggingface langchain-chroma langchain-community langchain-experimental langchain-text-splitters langgraph
+
 import os
 import warnings
 import asyncio
